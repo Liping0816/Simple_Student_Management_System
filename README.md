@@ -1,7 +1,7 @@
 # Simple Student Management System
 A linked list structure system develops fully in C++, with simple database (.txt)
 
-A simple MIS (Management Information System) that consists of a text file database. This system manages to store input data into the text file (record.txt). The data in database can be updated, searched, saved and delete.
+It is a simple MIS (Management Information System) that consists of a text file database. This system manages to store input data into the text file (record.txt). The data in database can be updated, searched, saved and delete.
 
 
 ## Functions:
